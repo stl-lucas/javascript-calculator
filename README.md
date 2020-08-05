@@ -5,6 +5,8 @@
 <h6>Description</h6>
 <p>Implement a very rudimentary calculator, with a classic interface similar to those found in many settings, including the one in several Apple products, like iOS and OSX (see image below).</p>
 
+<img src="osx-calculator-interface-example.png"/>
+
 <p>Input to the calculator will come via mouse clicks to your HTML elements.</p>
 <p>All input will be echoed to the response pane, with results rendered on press of any (orange) operation button. Order of operations and chained operations (see Testing, below) should be supported.</p>
 <p>Your calculator should show an error on any division by zero or overflow beyond 10 digits.</p>
